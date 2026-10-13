@@ -45,8 +45,8 @@ Una elegante interfaz de verificación OTP (One-Time Password) con animaciones f
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/tuusuario/otp-verification.git
-cd otp-verification
+git clone https://github.com/horacio-yon/otp-verification-animation.git
+cd otp-verification-animation
 ```
 
 
