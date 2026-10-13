@@ -1,5 +1,7 @@
 # OTP Verification Component 🔐
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Ver%20ahora-2ee6a6?style=for-the-badge&logo=github&logoColor=white)](https://horacio-yon.github.io/otp-verification-animation/)
+
 Una elegante interfaz de verificación OTP (One-Time Password) con animaciones fluidas y efectos visuales inmersivos. Este componente presenta una experiencia de usuario moderna con transiciones suaves, efectos de partículas y audio sintetizado.
 
 ![OTP Verification Demo](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
